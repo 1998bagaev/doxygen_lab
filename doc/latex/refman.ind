@@ -1,0 +1,36 @@
+\begin{theindex}
+
+  \item {$\sim$vector}
+    \subitem {vector}, \hyperpage{3}
+
+  \indexspace
+
+  \item {length}
+    \subitem {vector}, \hyperpage{4}
+
+  \indexspace
+
+  \item {m}
+    \subitem {vector}, \hyperpage{4}
+
+  \indexspace
+
+  \item {n}
+    \subitem {vector}, \hyperpage{4}
+
+  \indexspace
+
+  \item {print}
+    \subitem {vector}, \hyperpage{4}
+
+  \indexspace
+
+  \item {vector}, \hyperpage{3}
+    \subitem {$\sim$vector}, \hyperpage{3}
+    \subitem {length}, \hyperpage{4}
+    \subitem {m}, \hyperpage{4}
+    \subitem {n}, \hyperpage{4}
+    \subitem {print}, \hyperpage{4}
+    \subitem {vector}, \hyperpage{3}
+
+\end{theindex}
